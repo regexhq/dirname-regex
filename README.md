@@ -41,8 +41,9 @@ Pull requests and stars are always welcome. For bugs and feature requests, [plea
 
 **Jon Schlinkert**
  
-+ [github/regexps](https://github.com/regexps)
-+ [twitter/regexps](http://twitter.com/regexps) 
++ [github/jonschlinkert](https://github.com/jonschlinkert)
++ [twitter/jonschlinkert](http://twitter.com/jonschlinkert) 
+
 
 ## License
 Copyright (c) 2014-2015 Jon Schlinkert  

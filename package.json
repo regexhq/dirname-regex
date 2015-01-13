@@ -1,22 +1,22 @@
 {
   "name": "dirname-regex",
-  "description": "Regular expression for getting the directory part of a file path.",
-  "version": "0.1.0",
-  "homepage": "https://github.com/jonschlinkert/dirname-regex",
+  "description": "Regular expression for matching the directory part of a file path.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/regexps/dirname-regex",
   "author": {
     "name": "Jon Schlinkert",
     "url": "https://github.com/jonschlinkert"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jonschlinkert/dirname-regex.git"
+    "url": "git://github.com/regexps/dirname-regex.git"
   },
   "bugs": {
-    "url": "https://github.com/jonschlinkert/dirname-regex/issues"
+    "url": "https://github.com/regexps/dirname-regex/issues"
   },
   "license": {
     "type": "MIT",
-    "url": "https://github.com/jonschlinkert/dirname-regex/blob/master/LICENSE-MIT"
+    "url": "https://github.com/regexps/dirname-regex/blob/master/LICENSE"
   },
   "main": "index.js",
   "engines": {
@@ -26,8 +26,18 @@
     "test": "mocha -R spec"
   },
   "devDependencies": {
-    "mocha": "*",
-    "should": "*"
+    "mocha": "*"
   },
-  "keywords": []
+  "keywords": [
+    "dir",
+    "directory",
+    "dirname",
+    "expression",
+    "filepath",
+    "match",
+    "path",
+    "regex",
+    "regexp",
+    "regular"
+  ]
 }

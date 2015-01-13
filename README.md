@@ -1,6 +1,6 @@
 # dirname-regex [![NPM version](https://badge.fury.io/js/dirname-regex.svg)](http://badge.fury.io/js/dirname-regex)
 
-> Regular expression for getting the directory part of a file path.
+> Regular expression for matching the directory part of a file path.
 
 ## Install with [npm](npmjs.org)
 

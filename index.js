@@ -1,12 +1,10 @@
 /*!
- * dirname-regex <https://github.com/jonschlinkert/dirname-regex>
+ * dirname-regex <https://github.com/regexps/dirname-regex>
  *
- * Copyright (c) 2014 Jon Schlinkert, contributors.
- * Licensed under the MIT license.
+ * Copyright (c) 2014-2015 Jon Schlinkert
+ * Licensed under the MIT License.
  */
 
-'use strict';
-
 module.exports = function dirnameRegex() {
-  return /^(.*[\\\/])([^\\\/]*)$/;
+  return /^((.*)[\\\/]|\.)[^\\\/]*$/;
 };

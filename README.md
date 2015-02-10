@@ -1,4 +1,4 @@
-# dirname-regex [![NPM version](https://badge.fury.io/js/dirname-regex.svg)](http://badge.fury.io/js/dirname-regex)
+# dirname-regex [![NPM version](https://badge.fury.io/js/dirname-regex.svg)](http://badge.fury.io/js/dirname-regex) [![Build Status](https://travis-ci.org/regexps/dirname-regex.svg)](https://travis-ci.org/regexps/dirname-regex)
 
 > Regular expression for matching the directory part of a file path.
 
